@@ -1,5 +1,3 @@
-%%Can drop
-%Can are dropped in the green box
 gripperTranslation = [-0.46 -0.3 0.5]; 
 gripperRotation = [pi/2 -pi 0]; 
 tform = eul2tform(gripperRotation); 

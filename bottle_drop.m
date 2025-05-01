@@ -1,5 +1,3 @@
-%%Bottle drop
-%Bottles are dropped in the blue box
 gripperTranslation = [0.46 -0.35 0.5]; 
 gripperRotation = [pi/2 -pi 0]; 
 tform = eul2tform(gripperRotation); 
